@@ -1,0 +1,21 @@
+{
+  "name": "simple_project_with_socket_io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "hxghxg527 <hxghxg527@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hxghxg527/simple_project_with_socket_io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

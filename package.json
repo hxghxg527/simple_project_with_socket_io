@@ -1,0 +1,24 @@
+{
+  "name": "simple_project_with_socket_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hxghxg527@github.com/hxghxg527/simple_project_with_socket_io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxghxg527/simple_project_with_socket_io/issues"
+  },
+  "homepage": "https://github.com/hxghxg527/simple_project_with_socket_io#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
